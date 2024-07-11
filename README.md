@@ -9,7 +9,7 @@
 
 ## About Me
 
-[Your introduction goes here. A brief description of your background, interests, and current work.]
+[Pursuing Bachelors in CSE, specializing in Artificial Intelligence and Machine Learning, and I like to train deep learning models.]
 
 ## Experience
 
