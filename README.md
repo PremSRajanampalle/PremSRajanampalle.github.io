@@ -4,8 +4,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prem-s-rajanampalle">LinkedIn</a> |
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
   <a href="ithub.com/premsrajanampalle">GitHub</a> |
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30">
   <a href="mailto:prem.rajanampalle@gmail.com">Email</a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="30" height="30">
 </p>
 
 ---
