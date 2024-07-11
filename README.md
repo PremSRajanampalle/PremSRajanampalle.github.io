@@ -9,6 +9,8 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30">
   <a href="mailto:prem.rajanampalle@gmail.com"></a>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="30" height="30">
+  <a href="https://www.amazon.com/your-book-link"></a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" alt="Amazon" width="30" height="30">
 </p>
 
 ---
