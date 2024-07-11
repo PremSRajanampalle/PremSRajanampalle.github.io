@@ -1,9 +1,12 @@
-# Prem S Rajanampalle 
-# [Your Name]
+<p align="center">
+  <img src="profile pic.jpeg" alt="[Prem S Rajanampalle]" width="200" height="200">
+</p>
 
-![Profile Image](profile pic.jpeg)
-
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile) | [Twitter](https://twitter.com/your-profile) | [Email](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/prem-s-rajanampalle">LinkedIn</a> |
+  <a href="ithub.com/premsrajanampalle">GitHub</a> |
+  <a href="mailto:prem.rajanampalle@gmail.com">Email</a>
+</p>
 
 ---
 
