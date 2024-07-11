@@ -1,7 +1,7 @@
 # Prem S Rajanampalle 
 # [Your Name]
 
-![Profile Image](path/to/your/profile/image.jpg)
+![Profile Image](profile pic.jpeg)
 
 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile) | [Twitter](https://twitter.com/your-profile) | [Email](mailto:your.email@example.com)
 
