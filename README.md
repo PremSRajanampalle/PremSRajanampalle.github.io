@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile pic.jpeg" alt="[Prem S Rajanampalle]" width="200" height="200">
+  <img src="profile pic.jpeg" alt="[prem s rajanampalle]" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <p align="center">
